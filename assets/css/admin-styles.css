@@ -1,0 +1,107 @@
+.thfo_subscriber td,
+.thfo_subscriber th {
+    border-bottom: solid 1px black;
+    text-align: center;
+}
+
+.thfo_subscriber a {
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
+
+table.thfo_subscriber {
+    background: white;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin: 0 auto;
+    float: left;
+}
+
+.wpcasama-promo {
+    font-size: 2rem;
+    background: white;
+    width: 60%;
+    padding: 1%;
+    margin-top: 10px;
+}
+
+.ads-wpcasa_page_wpcasama-mail-settings {
+    width: 20%;
+    float: right;
+    border: solid 1px #fe5000;
+    border-radius: 10px;
+    margin: 0 20px;
+    padding: 0.5em;
+    background: #fe5000;
+    color: #ffffff;
+    text-align: center;
+}
+
+.ads-wpcasa-mail-alerte {
+    border: solid 1px #fe5000;
+    padding: 0.5em;
+    background: #fe5000;
+    color: #ffffff;
+}
+
+.ads h4 {
+    /*font-size: x-large;*/
+    /*text-align: center;*/
+}
+
+.ads ul {
+    margin-left: 4em;
+    font-size: larger;
+    list-style-type: decimal;
+    text-align: left;
+}
+
+.ads a {
+    color: #ffffff;
+    font-size: 2em;
+    line-height: 1.2em;
+    text-align: center;
+}
+
+.wpcasama-stars {
+    clear: both;
+    margin-top: 1em;
+}
+
+.wpcasama-stars span.dashicons.dashicons-star-filled,
+.wpcasama-stars span.dashicons{
+    text-decoration: none;
+}
+
+.wpcasama-subscriber {
+    overflow: hidden;
+    float: left;
+}
+
+form.wpcasama-settings-form {
+    width: 70%;
+    float: left;
+}
+
+#wpcasama_alert_data {
+    overflow: hidden;
+}
+
+.wpcasama_search_criteria_right,
+.wpcasama_search_criteria_left{
+    width: 50%;
+    float: left;
+}
+
+.wpcasama_search_criteria_free fieldset {
+    border: 1px solid #fe5000;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.bold{
+    font-weight: bold;
+}
